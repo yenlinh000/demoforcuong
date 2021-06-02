@@ -81,7 +81,7 @@
 					Give depth to your characters with the best pose reference tool on the web.
 				</h2>
 
-				<a href="/sketch/sketch.php" target="_blank" rel="noopener noreferrer" title="Webapp">
+				<a href="/sketch/sketch.html" target="_blank" rel="noopener noreferrer" title="Webapp">
 					<button class="button">
 						Open the Webapp
 					</button>
